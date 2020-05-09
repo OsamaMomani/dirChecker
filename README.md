@@ -1,12 +1,13 @@
 
 # Simple CLI Checker for Directories Properties &amp; Permissions
 
- \\----------------------------------. <br />
- /&nbsp;&nbsp;&nbsp;Directories Checker script&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br />
- \ &nbsp;&nbsp;&nbsp;version :&nbsp;&nbsp;&nbsp;0.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br />
- /&nbsp;&nbsp;&nbsp;Type :&nbsp;&nbsp;&nbsp;Unix Shell (.sh)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br />    
- \ &nbsp;&nbsp;&nbsp;By:&nbsp;Osama Momani&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br />
- /-----------------------------------'
+
+>   &#92; -----------------------------------------.
+>   /   Directories Checker script&nbsp;      |
+>   &#92;   version :   0.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|    
+>   /   By: Osama Momani&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+>   &#92;  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;CopyLift!                       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+>   /----------------------------------------'
 
     All colors/styles variables are separated by {} for ex. ${COLOR}	
     otherwise it is for code functionality ex. $i
