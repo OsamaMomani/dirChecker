@@ -2,10 +2,10 @@
 # Simple CLI Checker for Directories Properties &amp; Permissions
 
  \\----------------------------------. <br />
- /   Directories Checker script      |<br />
- \   version :   0.1                 |<br />
- /   Type :   Unix Shell (.sh)       |<br />    
- \   By: Osama Momani                |<br />
+ /&nbsp;&nbsp;&nbsp;Directories Checker script&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br />
+ \&nbsp;&nbsp;&nbsp;version :&nbsp;&nbsp;&nbsp;0.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br />
+ /&nbsp;&nbsp;&nbsp;Type :&nbsp;&nbsp;&nbsp;Unix Shell (.sh)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br />    
+ \&nbsp;&nbsp;&nbsp;By:&nbsp;Osama Momani&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br />
  /-----------------------------------'
 
     All colors/styles variables are separated by {} for ex. ${COLOR}	
