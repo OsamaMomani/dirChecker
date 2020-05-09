@@ -1,9 +1,9 @@
--   \----------------------------------.
+   \----------------------------------.
 -   /   Directories Checker script      |
 -   \   version :   0.1                 |    
 -   /   By: Osama Momani                |
 -   \   CopyLift!                       |
--   /-----------------------------------'
+   /-----------------------------------'
 
 # Simple CLI Checker for Directories Properties &amp; Permissions
 
