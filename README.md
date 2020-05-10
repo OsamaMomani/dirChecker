@@ -14,4 +14,4 @@
     
 # Screens
 
-![](ScreenShoot.gif)
+![](sampleRun.gif)
